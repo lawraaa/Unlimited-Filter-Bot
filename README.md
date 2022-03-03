@@ -79,13 +79,13 @@
 Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/jamesbondOO7)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lawraaa/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
